@@ -1,16 +1,20 @@
-### Hi there 👋
+### ARFANBOT WA TERMUX
+Note : Bot Ini Hanya Nge Remake Saya Tidak Membuatnya
 
-<!--
-**ArfanBot/ArfanBot** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Cara Install Botnya :
 
-Here are some ideas to get you started:
+pkg install git
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+pkg install ffmpeg
+
+pkg install Imagemagick
+
+pkg install nodejs
+
+git clone https://github.com/ArfanBot/ArfanBot
+
+cd ArfanBot
+
+npm i
+
+node index.js
